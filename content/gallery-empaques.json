@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "src": "assets/img/gallery/empaques/ejemplo-1.jpg",
+      "title": "Proyecto 1",
+      "caption": "Descripción breve del trabajo."
+    },
+    {
+      "src": "assets/img/gallery/empaques/ejemplo-2.jpg",
+      "title": "Proyecto 2",
+      "caption": "Descripción breve del trabajo."
+    },
+    {
+      "src": "assets/img/gallery/empaques/ejemplo-3.jpg",
+      "title": "Proyecto 3",
+      "caption": "Descripción breve del trabajo."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "points": [
+    {
+      "x": 20,
+      "y": 35,
+      "label": "Offset",
+      "href": "servicios.html"
+    },
+    {
+      "x": 55,
+      "y": 50,
+      "label": "Digital",
+      "href": "servicios.html"
+    },
+    {
+      "x": 78,
+      "y": 22,
+      "label": "Gran Formato",
+      "href": "gran-formato.html"
+    }
+  ]
+}
